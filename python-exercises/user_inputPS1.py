@@ -1,6 +1,7 @@
 from datetime import date
 
 def userinputfunc():
+    
     # asks the user to enter their name and their age.
     username = input("Enter your name :")
     userage = input("Enter your age :")
